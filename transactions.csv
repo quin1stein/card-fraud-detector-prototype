@@ -1,0 +1,11 @@
+TransactionID,Customer,Amount,Category,IsFraud,DiscountedAmount
+1,Alice,75.95,Groceries,0,46.15
+2,Bob,1333.98,Electronics,1,963.56
+3,Charlie,93.37,Groceries,0,73.43
+4,David,514.97,Jewelry,1,1265.56
+5,Eve,109.01,Clothing,0,83.55
+6,Frank,76.28,Groceries,0,67.28
+7,Grace,87.32,Clothing,0,82.74
+8,Heidi,1119.19,Electronics,1,658.03
+9,Ivan,85.02,Groceries,0,30.55
+10,Judy,672.55,Electronics,1,1009.38
